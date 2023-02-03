@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.first-section{
+    background-image: url(./images/personal-website/header-bg.png);
+    height: 900px;
+    background-size: cover;
+}
+.colore{
+    color: #f1c40f;
+}
+.div-section{
+    width: 40%;
+    float: left;
+    margin-top: 200px;
+}
+.first-image{
+    width: 101%;
+}
+.text-class{
+    margin: 350px 0px 0px 150px;
+}
+.link1{
+    text-decoration: none;
+    color: #fff;
+    background:#d11b8e;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+
+.second-section{
+    background-image: url(./images/personal-website/biography-bg.png);
+    height: 850px;
+}
+
+
+.third-section{
+    background-image: url(./images/personal-website/latest-work-bg.png);
+    height: 600px;
+    background-position:;
+    background-size: cover;
+}
+.work{
+    width:30%;
+    float: left;
+    margin-left: 34px;
+}
+.work img{
+    width: 100%;
+    box-shadow: 8px 8px 30px gray;
+}
+.latest-work{
+    text-align: center;
+    margin: 80px;
+}
+
+
+.last-section{
+    text-align: center;
+    background-image: url(./images/personal-website/footer-bg.png);
+    height: 800px;
+    background-size: cover;
+    margin-top: 24px;
+}
+.text-client{
+    
+    text-align: center;
+    margin-top: 85px;
+}
+.sms{
+    background: rgb(245, 45, 138);
+    padding:10px 200px 10px;
+    display:inline-block;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+}
+.massage{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.client h6{
+    opacity: 50%;
+    margin-top: -20px;
+}
+
+
+.footer p{
+    text-align: center;
+    opacity: 50%;
+}
